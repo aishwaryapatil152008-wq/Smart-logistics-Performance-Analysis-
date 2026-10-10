@@ -1,0 +1,4 @@
+Performance_Status,Shipment_Count,Average_Shipping_Cost,Average_Distance,Average_Delivery_Days
+Late,8,1515.0,172.5,6.0
+On Time,9,1542.2222222222222,181.11111111111111,3.7777777777777777
+Pending,3,1473.3333333333333,176.66666666666666,
