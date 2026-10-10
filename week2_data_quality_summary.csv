@@ -1,0 +1,7 @@
+Metric,Value
+Original row count,20
+Original column count,11
+Exact duplicate rows detected,0
+Rows after duplicate removal,20
+Missing cells before cleaning,3
+Missing cells after preprocessing,6

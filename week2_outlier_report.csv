@@ -1,0 +1,4 @@
+Column,Lower_Bound,Upper_Bound,Outlier_Count
+Distance_KM,60.0,300.0,0
+Shipping_Cost,646.25,2376.25,0
+Weight_KG,9.62,52.62,0

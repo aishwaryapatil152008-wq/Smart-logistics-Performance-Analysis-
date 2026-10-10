@@ -1,0 +1,6 @@
+Issue,Count
+Negative values in Distance_KM,0
+Negative values in Shipping_Cost,0
+Negative values in Weight_KG,0
+Dispatch date before order date,0
+Actual delivery before order date,0
